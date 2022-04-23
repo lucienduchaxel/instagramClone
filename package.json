@@ -1,9 +1,11 @@
 {
+  "homepage": "instagramclone.lucienduchaxel.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
     "@faker-js/faker": "^6.2.0",
